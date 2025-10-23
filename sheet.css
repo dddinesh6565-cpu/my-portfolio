@@ -1,0 +1,341 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 10px;
+    gap: 25px;
+    margin-left: 475px;
+}
+
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 10px;
+    gap: 15px;
+     border-left:2px solid white;
+}
+
+.img1{
+    width: 90px;
+    padding: 10px;
+}
+
+.full{
+    width: 500px;
+    height: 250px;
+    text-align: center;
+}
+.din{
+    width: 100%;
+    border-radius: 1750px;
+    height: 450px;
+    display: flex;
+
+}
+
+.color2{
+     display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color:rgb(30, 4, 48);
+     align-items: center;
+    
+
+}
+
+.color3{
+     color: white;
+    background-color:rgb(30, 4, 48);
+}
+
+.text1{
+    font-size: x-large ;
+    font-family: Times New Roman;
+    margin-top: 400px ;
+    color: white;
+}
+
+.text3{
+    font-size: x-large;
+    font-family: Times New Roman;
+    margin-top: 400px ;
+    margin-right: 30px;
+    text-align: center;
+    color: white;
+}
+
+.color4{
+     color: white;
+    background-color:orangered;
+}
+
+
+.col{
+    color:rgb(30, 4, 48);
+}
+
+.alin{
+    text-align: justify;
+}
+
+.imgab{
+    border-radius: 20px;
+    height: 300px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+
+.color5{
+    color:white;
+    background-color:rgb(30, 4, 48)  ;
+}
+
+.color7{
+    background-color: rgb(30, 4, 48) ;
+}
+
+.color8{
+    background-color: orangered;
+}
+.color6{
+    background-color: orangered;
+}
+.head1{
+    color:rgb(30, 4, 48) ;
+    font-style: italic;
+}
+
+.head2{
+    color:orangered ;
+    font-style: italic;
+}
+
+.head3{
+    color:rgb(30, 4, 48) ;
+    font-style: italic;
+}
+
+.head5{
+    color:rgb(30, 4, 48) ;
+    font-style: italic;
+}
+
+.head4{
+    color:orangered ;
+    font-style: italic;
+}
+
+.sch{
+    text-align: center;
+    margin-top: 20px;
+    color: orangered;
+}
+
+.img4{
+    border-radius: 30%;
+    height: 150px;
+    width: 150px;
+    margin-left: 100px;
+
+}
+
+.search{
+    display: flex;
+    gap: 135px;
+    padding: 10px;
+}
+
+.search1{
+    display: flex;
+    gap: 170px;
+    padding: 10px;
+}
+
+
+.cmp{
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.para3{
+    text-align: justify;
+    color: white;
+}
+
+.blcl{
+      color:rgb(30, 4, 48) ;
+}
+
+
+.prj{
+    width: 100%;
+    height: 700px;
+    border-radius: 20px;
+}
+
+.prj1{
+    width: 355px;
+    height: 350px;
+}
+
+.prj2{
+    width: 355px;
+    height: 350px;
+}
+
+
+.colorr{
+ color: white;
+}
+
+.colorr3{
+  color:rgb(30, 4, 48) ;
+  margin-left:40px;
+}
+
+.colorr4{
+  color:rgb(30, 4, 48) ;
+  margin-left:35px;
+}
+
+.colorr5{
+  color:rgb(30, 4, 48) ;
+  margin-left:35px;
+}
+
+.colorr6{
+  color:rgb(30, 4, 48) ;
+  margin-left:15px;
+}
+
+.colorr8{
+  color:rgb(30, 4, 48) ;
+  margin-left:45px;
+}
+
+
+.colorr2{
+  color:rgb(30, 4, 48) ;
+  margin-left: 30px;
+}
+
+.pb{
+  margin-top: 70px;
+}
+
+.java{
+    width: 250px;
+    height: 250px;
+}
+
+.java2{
+    width: 150px;
+    height: 150px;
+    margin-left: 55px;
+}
+
+.color9{
+    background-color:rgb(30, 4, 48);
+}
+
+.head8{
+    color: orangered;
+}
+
+.head9{
+    color: black;
+}
+
+.card1{
+    background-color: rgb(173, 248, 173);
+    height: 420px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+.nav11{
+    font-size: large;
+   margin-right: 100px;
+}
+
+.nav12{
+    font-size: large;
+    
+}
+
+.nav13{
+    font-size: large;
+    
+}
+
+.other{
+    display: flex;
+    justify-content: space-betweens;
+    column-gap: 65px;
+    padding: 20px;
+}
+
+.message{
+    padding: 20px;
+
+}
+
+.but{
+    background-color: rgb(30, 4, 48);
+    color: white;
+    margin-left: 250px;
+    border-radius: 05px;
+    font-size:large;
+    border: none;
+}
+
+.talk{
+    font-size: xx-large
+}
+
+.icon{
+    font-size:xx-large;
+    display: flex;
+    gap:15px;
+    list-style-type: none;
+    margin-left: 140px;
+}
+
+.but1{
+     background-color: rgb(30, 4, 48);
+    color: white;
+    border-radius: 05px;
+}
+
+.send-btn{
+     position: absolute;
+    left: 580px;
+    border-radius: 05px;
+     background-color: rgb(30, 4, 48);
+    color: white;
+    border: none;
+    top: 697%;
+}
+
+.part1{
+ position: relative;
+}
+
+.color10{
+    background-color: orangered;
+    color: white;
+}
+.last{
+     display: flex;
+    padding: 10px;
+    justify-content: space-between;  
+}
